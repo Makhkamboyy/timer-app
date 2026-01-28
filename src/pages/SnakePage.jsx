@@ -9,7 +9,7 @@ const SnakePage = () => {
   return (
     <div className="snake-page">
       <button className="back-button" onClick={() => navigate('/')}>
-        ← Bosh sahifaga
+        ← Bosh sahifagaa
       </button>
       <SnakeGame />
     </div>
